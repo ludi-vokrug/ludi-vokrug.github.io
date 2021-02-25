@@ -1,29 +1,3 @@
-# Site settings
-# These are used to personalize your resume. If you look in the HTML files,
-# you will see them accessed via {{ site.name }}, {{ site.introduction }}, and so on.
-# Edit and replace as needed.
-title: Алексей Мицкевич | Резюме
-name: Алексей Минцкевич
-email: ludi.vokrug@gmail.com
-phone: -
-portfolio: https://ludi-vokrug.github.io
-description: > 
-  Доброго дня. Меня зовут Алексей и я Junior QA или тестировщик.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-behance_username: -
-codepen_username: -
-twitter_username: -
-github_username:  ludi-vokrug
-
-introduction: >
-  <p>Experienced Web Developer seeking opportunity to bring
-   knowledge of programming, design, and media to a position
-    with ABC Company.</p>
-
-# Build settings
-markdown: kramdown
-theme: jekyll-cv-theme
-exclude:
-  - Gemfile
-  - Gemfile.lock
+title: Résumé Title
+baseurl: "/resume/"
+theme: "jekyll-theme-minimal-resume"
