@@ -13,30 +13,41 @@ contact:
     text: Страничка на github
     link: https://github.com/ludi-vokrug
 skills:
-  - title: Составление чек-листов, тест-кейсов и багрепортов в Jira и Bugzilla
-    items: Подобнее - <a href="https://drive.google.com/drive/folders/1uRbR2jLwcMhU6GdS2McZGnfwh22El-pT?usp=sharing"> в портфолио </a> 
-  - title: Git
-    items: (команды merge, push, pull, commit, fetch), настоящее резюме размещено на Github Pages через git и собрано в Jekyll
-  - title: bash
-    items: Команды ls, cp, mv, cat, man и немного grep
-  - title: SQL
-    items: 10 выполненных заданий на sql-ex.ru, DB Browser + DBeaver <a href="https://drive.google.com/drive/folders/1mSFusmefIqfBqKNo41i8HeiODzWucKu4?usp=sharing">(примеры в портфолио)</a>;
-  - title: Selenium IDE
-    items: записывал простые тесты, прослушал открытый интенсив от Skillbox
-  - title: Chrome Dev Tools
-    items: менял useragent, имитировал браузер смартфона, для публикации поста в инстаграм, менял цвет и текст элементов сайта
-  - title: QEMU/Gnome Boxes 
-    items: запускал версии дистрибутивов различных операционных систем, выбирал себе дистрибутивы, смотрел новинки софта
-  - title: Vim/NeoVIM 
-    items: осваиваю, заменяю им Sublime и Gedit, <a href="https://github.com/ludi-vokrug/dot.vim">конфиг есть на страничке Github</a>
-  - title: ftp/ssh, AnyDesk/TeamViewer
-    items: соединялся с удаленной машиной, качал/загружал файлы, настраивал соединение, в т.ч. из linux (Ubuntu/Fedora) с Windows-машиной
-  - title:  HTML и CSS
-    items: могу поменять в готовом шаблоне цвет, шрифт, ширину элемента или страницы, удалить ненужный блок данных
-  - title: LAMP/MAMP/DENVER
-    items: поднимал локальные копии Wordpress и “Эгея” для тестирования тем и плагинов
-  - title: adb
-    items: ставил Ubuntu Touch и Sailfish OS на Nexus 4
+  - title: 
+    items: <b>Составление чек-листов, тест-кейсов и багрепортов в Jira и Bugzilla</b> Подобнее - <a href="https://drive.google.com/drive/folders/1uRbR2jLwcMhU6GdS2McZGnfwh22El-pT?usp=sharing"> в портфолио </a> 
+  - title: 
+    items: <b>Git</b> (команды merge, push, pull, commit, fetch), настоящее резюме размещено на Github Pages через git и собрано в Jekyll
+  - title: 
+    items: <b>Bash</b> Команды ls, cp, mv, cat, man и немного grep
+  - title:
+    items: <b>SQL</b> 10 выполненных заданий на sql-ex.ru, DB Browser <a href="https://drive.google.com/drive/folders/1mSFusmefIqfBqKNo41i8HeiODzWucKu4?usp=sharing">(примеры в портфолио)</a>;
+  - title: 
+    items: <b>Selenium IDE</b> записывал простые тесты, прослушал открытый интенсив от Skillbox
+  - title: 
+    items: <b>Chrome Dev Tools</b> менял useragent, имитировал браузер смартфона, для публикации поста в инстаграм, менял цвет и текст элементов сайта
+  - title: 
+    items: <b>QEMU/Gnome Boxes</b> запускал версии дистрибутивов различных операционных систем, выбирал себе дистрибутивы, смотрел новинки софта
+  - title: 
+    items: <b>Vim/NeoVim</b> осваиваю, заменяю им Sublime и Gedit, <a href="https://github.com/ludi-vokrug/dot.vim">конфиг есть на страничке Github</a>
+  - title: 
+    items: <b>ftp/ssh, AnyDesk/TeamViewer</b> соединялся с удаленной машиной, качал/загружал файлы, настраивал соединение, в т.ч. из linux (Ubuntu/Fedora) с Windows-машиной
+  - title:  
+    items: <b>HTML и CSS</b> могу поменять в готовом шаблоне цвет, шрифт, ширину элемента или страницы, удалить ненужный блок данных
+  - title: 
+    items: <b>LAMP/MAMP/DENVER</b> поднимал локальные копии Wordpress и “Эгея” для тестирования тем и плагинов
+  - title: 
+    items: <b>adb</b> ставил Ubuntu Touch и Sailfish OS на Nexus 4
+      
+      
+knowledge:
+  - title: 
+    items: <b>теорию тестирования, цикл тестирования ПО</b> 
+  - title: 
+    items: <b>цикл разработки ПО (Waterfall, Agile, Kanban)</b> 
+  - title: 
+    items: <b>клиент-серверную архитектуру</b> 
+   
+
       
 experience:
   - title: фриланс
