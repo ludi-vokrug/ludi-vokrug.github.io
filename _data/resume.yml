@@ -28,7 +28,7 @@ skills:
   - title: 
     items: <b>QEMU/Gnome Boxes</b> запускал версии дистрибутивов различных операционных систем, выбирал себе дистрибутивы, смотрел новинки софта
   - title: 
-    items: <b>Vim/NeoVim</b> осваиваю, заменяю им Sublime и Gedit, <a href="https://github.com/ludi-vokrug/dot.vim">конфиг есть на страничке Github</a>
+    items: <b>Vim/NeoVim</b> осваиваю, заменяю им nano и Gedit, <a href="https://github.com/ludi-vokrug/dot.vim">конфиг есть на страничке Github</a>
   - title: 
     items: <b>ftp/ssh, AnyDesk/TeamViewer</b> соединялся с удаленной машиной, качал/загружал файлы, настраивал соединение, в т.ч. из linux (Ubuntu/Fedora) с Windows-машиной
   - title:  
