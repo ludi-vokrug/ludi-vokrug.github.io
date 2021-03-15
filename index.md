@@ -29,6 +29,8 @@ Telegram: <a rhef="https://t.me/ludivokrug">https://t.me/ludivokrug</a><br>
 (10 выполненных заданий на sql-ex.ru), немного работал в _DB Browser_ (<a href="https://drive.google.com/drive/folders/1mSFusmefIqfBqKNo41i8HeiODzWucKu4?usp=sharing">примеры в портфолио</a>);
 + **Selenium IDE**  
 записывал простые тесты, прослушал открытый интенсив от Skillbox);
++ **Rest API**  
+(отправлял GET и POST запросы на https://reqres.in/);
 + **Chrome Dev Tools**  
 (менял useragent, имитировал браузер смартфона для публикации поста в инстаграм, менял цвет и текст элементов сайта);
 + **QEMU/ Gnome Boxes**(запускал версии дистрибутивов различных операционных систем),  
