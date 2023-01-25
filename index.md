@@ -19,8 +19,8 @@ Telegram: <a rhef="https://t.me/ludivokrug">https://t.me/ludivokrug</a><br>
 
 
 ## НАВЫКИ
-+ составление __чек-листов__ (<a rhef="https://docs.google.com/document/d/1YgFdAitE1fVmRqhgJyb6A1HzXOovrznoEPwCYiV4u-o/edit?usp=sharing">пример</a>), **mindmap** (<a rhef="https://drive.google.com/file/d/1oxhYQovzLW8qCcMKSk_B1EPMX5TMI5V4/view?usp=sharing">пример</a> ) и **тест-кейсов** (<a rhef="https://docs.google.com/document/d/18qSnPJlKlxhsUzWNJBdMjrnvakvGqFdfx2237jm4YJg/edit?usp=sharing">пример</a>);
-+ составление баг-репортов в **Jira** (<a href="https://drive.google.com/file/d/161ae9PQWw0hrNIhQdfy0sqks8ptySPx_/view?usp=sharing">пример</a>)и **bugzilla** (<a href="https://drive.google.com/file/d/11ypvhSZ1OOBA6QXXeP9AFKzWVT8DHFIL/view?usp=sharing">пример</a>);
++ составление __чек-листов__ (<a rhef="https://docs.google.com/document/d/1YgFdAitE1fVmRqhgJyb6A1HzXOovrznoEPwCYiV4u-o/edit?usp=sharing">пример</a>), **mindmap** (<a rhef="https://drive.google.com/file/d/1oxhYQovzLW8qCcMKSk_B1EPMX5TMI5V4/view?usp=sharing">пример</a>) и **тест-кейсов** (<a rhef="https://docs.google.com/document/d/18qSnPJlKlxhsUzWNJBdMjrnvakvGqFdfx2237jm4YJg/edit?usp=sharing">пример</a>);
++ составление баг-репортов в **Jira** (<a href="https://drive.google.com/file/d/161ae9PQWw0hrNIhQdfy0sqks8ptySPx_/view?usp=sharing">пример</a>) и **bugzilla** (<a href="https://drive.google.com/file/d/11ypvhSZ1OOBA6QXXeP9AFKzWVT8DHFIL/view?usp=sharing">пример</a>);
 + **Git**  
 (могу добавить изменения в репозитарий (add), скачать коммиты на локальную машину (знаю разницу между pull и fetch), слить коммиты (merge), подписать коммит (commit) и загрузить его на сервер (push)), это резюме размещено на Github Pages через git и собрано в Jekyll
 + **bash**  
@@ -28,14 +28,14 @@ Telegram: <a rhef="https://t.me/ludivokrug">https://t.me/ludivokrug</a><br>
 + **SQL**  
 (10 выполненных заданий на sql-ex.ru), немного работал в _DB Browser_ (<a href="https://drive.google.com/drive/folders/1mSFusmefIqfBqKNo41i8HeiODzWucKu4?usp=sharing">примеры в портфолио</a>);
 + **Selenium IDE**  
-записывал простые тесты, прослушал открытый интенсив от Skillbox);
+(записывал простые тесты, прослушал открытый интенсив от Skillbox);
 + **Rest API**  
 (отправлял GET и POST запросы на https://reqres.in/);
 + **Chrome Dev Tools**  
 (менял useragent, имитировал браузер смартфона для публикации поста в инстаграм, менял цвет и текст элементов сайта);
 + **QEMU/ Gnome Boxes**(запускал версии дистрибутивов различных операционных систем),  
   **VIM/neoVIM** (осваиваю, заменяю им nano и Gedit),<a href="https://github.com/ludi-vokrug/dot.vim">конфиг есть на страничке Github</a>  
-  **ftp/ssh** (соединялся с удаленной машиной, качал/загружал файлы),  
+  **ftp/ssh** (соединялся с удаленной машиной, качал/загружал файлы, установил на свой хостинг https://fabler.su движок friendica, обновлял его),  
   **AnyDesk/TeamViewer** (настраивал соединение, в т.ч. из linux (Ubuntu/Fedora) с Windows-машиной),  
   **adb** (ставил Ubuntu Touch и Sailfish OS на Nexus 4),  
   **HTML и CSS** (могу поменять в готовом шаблоне цвет, шрифт, ширину элемента или страницы, удалить ненужный блок данных),  
@@ -57,7 +57,7 @@ Telegram: <a rhef="https://t.me/ludivokrug">https://t.me/ludivokrug</a><br>
    </tr>
    <tr><td valign="top">
 <b>Фриланс</b><br>
-октябрь 2018 – настоящее время<br>
+октябрь 2018 – март 2021 года<br>
 <br>
 - копирайтинг<br>
 - ведение профилей в соцсетях<br>
@@ -66,6 +66,7 @@ Telegram: <a rhef="https://t.me/ludivokrug">https://t.me/ludivokrug</a><br>
 <b>Юридическая работа,
 Москва/Видное (МО)</b><br>
 октябрь 2007 – август 2018<br>
+март 2021 –настоящее время<br>
 - представительство в суде<br>
 - юрист на предприятии<br>
 </td>
